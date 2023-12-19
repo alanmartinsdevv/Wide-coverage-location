@@ -1,0 +1,79 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+header {
+    margin: 47px 0 0 44px;
+  
+}
+
+.link-header {
+    font-size: 14px;
+    font-weight: 400;
+    margin-right: 36px;    
+    color: #17233D;
+    cursor: pointer;
+}
+
+.button-sing-up {
+    width: 124px;
+    height: 51px;
+    border-radius: 10px;
+    border: 1px solid #4CB538;
+    background: #6FBF44;
+    cursor: pointer;
+    font-size: 16px;
+    color: #FFF;
+}
+
+.img-men-gril {
+    width: 595.178px;
+    height: 500px;
+    margin: 150px 0 0 100px;
+    display: inline-block;
+}
+
+section {
+    display: inline-block;
+    margin-left: 30px;
+    
+}
+
+h1 {
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 200px; 
+}
+
+p {
+    width: 400px;
+    margin-left: 50px;
+    font-size: 18px;
+    font-style:italic;
+    font-weight: 600px;
+    line-height: 50px;
+}
+
+a {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1px;
+    color: #6FBF44;
+    
+}
+
+#button-section {
+    width: 124px;
+    height: 51px;
+    border-radius: 10px;
+    border: 1px solid #4CB538;
+    background: #6FBF44;
+    opacity: 0.9;
+    cursor: pointer;
+}
